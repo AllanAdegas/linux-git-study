@@ -1,0 +1,2 @@
+This archive will be used for start my studies about git and github,
+The only purpose of this file is to train the basic git commands and check the version control operation.

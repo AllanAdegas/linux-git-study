@@ -1,1 +1,0 @@
-Esse arquivo será usado para começar os estudos sobre git e  github, seu único objetivo é treinar os comandos básicos do git e checar o funcionamento do Controle de versão.
